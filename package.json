@@ -1,0 +1,25 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orjames/test-api.git"
+  },
+  "author": "Owen R. James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orjames/test-api/issues"
+  },
+  "homepage": "https://github.com/orjames/test-api#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.8.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
+  }
+}
